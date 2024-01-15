@@ -2,7 +2,7 @@ import torch
 import argparse
 
 from nerf.provider import NeRFDataset
-from nerf.gui import NeRFGUI
+# from nerf.gui import NeRFGUI
 from nerf.utils import *
 
 # torch.autograd.set_detect_anomaly(True)
